@@ -41,9 +41,9 @@ Executed notebooks for few configurations are in folder **executed_runs**  they 
 
 <img src="images/eval_acc.png" alt="Evaluation Accuracy" width="50%">
 
-![GPU Memory Usage](images/GPU_Memory_Allocated_percent.png)
+<img src="images/GPU_Memory_Allocated_percent.png" alt="GPU Memory Usage" width="50%">
 
-![Training Time](images/Training_Time.png)
+<img src="images/Training_Time.png" alt="Training Time" width="50%">
 
 Link to [weights and biases view](https://wandb.ai/hpml99/lora_and_qlora_v2?nw=9j1e9s74b5b) for more graphs.
 
