@@ -39,7 +39,7 @@ Executed notebooks for few configurations are in folder **executed_runs**  they 
 | LoRA             | 8-16       | 93.0789       | 10656                | 2066.59             |
 | Full-Finetuning  | -          | 94.4737       | 11622                | 2737.17             |
 
-![Evaluation Accuracy](images/eval_acc.png)
+<img src="images/eval_acc.png" alt="Evaluation Accuracy" width="50%">
 
 ![GPU Memory Usage](images/GPU_Memory_Allocated_percent.png)
 
