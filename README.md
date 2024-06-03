@@ -25,7 +25,7 @@ At third cell provide api key for Weights and Biases login.
 
 For full-finetuning use **full_finetune.ipynb** notebook.
 
-Executed notebooks for few configurations are in folder **executed_runs**  they have outputs for previous runs.
+Executed notebooks for few configurations are in folder **executed_runs**,  they have outputs for previous runs.
 
 ## Results
 
